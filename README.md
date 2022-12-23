@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ./imatges
----
-
 # PEC3: Visionant el futur amb les ulleres de Manovich 
 
 ### Recurs d'aprenentatge de Cultura Digital
