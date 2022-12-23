@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="style.css"/>
 # PEC3: Visionant el futur amb les ulleres de Manovich 
 
 ### Recurs d'aprenentatge de Cultura Digital
