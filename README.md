@@ -35,8 +35,8 @@ L'evolució experimentada en els darrers anys en el marc de la cultura digital v
 
 Per tal d'il·lustrar les noves vies d'hibridació, analitzarem dues tendències actuals en l'àmbit de les instal·lacions interactives i l'art digital: 
 
-- == bioart ==
-- == face filters == 
+- ==bioart==
+- ==face filters== 
 
 
 
